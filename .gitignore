@@ -58,3 +58,6 @@ data/processed/
 data/features/
 models/*.joblib
 models/*.pkl
+
+# Trained Models and Serialized Artifacts
+models/
